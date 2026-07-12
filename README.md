@@ -139,6 +139,9 @@ K-Means clustering was selected as the primary clustering algorithm.
 
 **K = 3**
 
+<img width="548" height="359" alt="image" src="https://github.com/user-attachments/assets/ac1fd613-0117-4254-aa68-0ee8a93bb7f7" />
+
+
 ### Silhouette Scores
 
 | K | Score |
@@ -229,6 +232,9 @@ Examples:
 Principal Component Analysis (PCA) was used to reduce the 10-dimensional feature space into two principal components.
 
 PCA helps visualize how the clusters are distributed in a two-dimensional space while preserving as much variance as possible.
+
+<img width="523" height="371" alt="image" src="https://github.com/user-attachments/assets/bd3ab633-9c57-4665-91cb-693b89f3b44f" />
+
 
 ---
 
